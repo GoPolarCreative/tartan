@@ -33,6 +33,7 @@ const galleryImages = [
   { src: '/images/50,jpg', alt: 'Hand-built natural stone garden steps' },
   { src: '/images/51.jpg', alt: 'Curved sandstone paving pathway' },
   { src: '/images/52.jpg', alt: 'Natural stone feature wall' },
+  { src: '/images/53.jpg', alt: 'Natural stone feature wall' },
 ];
 
 const services = ['Stonework', 'Brickwork', 'Blockwork', 'Paving', 'Pointing & Repointing', 'Stone Cladding'];
