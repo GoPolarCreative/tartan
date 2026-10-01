@@ -30,9 +30,9 @@ const galleryImages = [
   { src: '/images/image-2654168861684698.webp', alt: 'Stone cladding on a residential facade' },
   { src: '/images/image-1767894254440402.webp', alt: 'Structural stone retaining wall' },
   { src: '/images/image-3707897266058271.webp', alt: 'Hand-crafted natural stone wall' },
-  { src: '/images/image-1080212461386210.webp', alt: 'Hand-built natural stone garden steps' },
-  { src: '/images/image-1407926387994218.webp', alt: 'Curved sandstone paving pathway' },
-  { src: '/images/image-2209207489652899.webp', alt: 'Natural stone feature wall' },
+  { src: '/images/50,jpg', alt: 'Hand-built natural stone garden steps' },
+  { src: '/images/51.jpg', alt: 'Curved sandstone paving pathway' },
+  { src: '/images/52.jpg', alt: 'Natural stone feature wall' },
 ];
 
 const services = ['Stonework', 'Brickwork', 'Blockwork', 'Paving', 'Pointing & Repointing', 'Stone Cladding'];
